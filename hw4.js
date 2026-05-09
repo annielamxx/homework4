@@ -424,7 +424,7 @@ var inputs = [
     {id:"zip", cookieName: "zipCode"},
     {id:"email", cookieName: "email"},
     {id:"phone", cookieName: "phone"},
-    {id:"username", cookieName: "userName"},
+    {id:"uname", cookieName: "userName"},
 ];
 
 inputs.forEach(function (input) {
